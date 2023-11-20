@@ -1,4 +1,4 @@
-<h1 align="center">[ 类型扩展 ]PM2.Extensions</h1>
+<h1 align="center">[ 缓存 ]PM2.Redis</h1>
 <p align="center"></p>
 
 

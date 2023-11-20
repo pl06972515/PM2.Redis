@@ -3,7 +3,7 @@ window.$docsify = {
 
     repo: 'true',
     corner: {
-        url: "https://github.com/pl06972515/PM2.Extensions.Doc",
+        url: "https://github.com/pl06972515/PM2.Redis.Doc",
         icon: "Github", //Github Gitlab Spring 
         //icon: "https://gitee.com/s_origins/ImageStorage/raw/master/PicGo_Typora/20201220213510.png",
         //width: 40,
