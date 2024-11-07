@@ -2,8 +2,9 @@
 -  [<span class='class'>[ 配置 ]RedisOptions</span>](e1.0.0)
 -  [<span class='interface'>IRedisProvider</span>](e2.0.0)
 -  -
--  [<span class='static'>IDatabaseExtensionsExtensions</span>](e3.0.0)
 -  [<span class='static'>StackExchangeRedisExtensions</span>](e4.0.0)
+-  [<span class='static'>IDatabaseExtensionsExtensions</span>](e3.0.0)
+-  [<span class='static'>RedisLockExtensionsExtensions</span>](e5.0.0)
 -  -
 -  [<span class='static'>[ IOC ]IServiceCollection</span>](s1.0.0)
 -  
